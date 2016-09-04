@@ -1,1 +1,2 @@
-File Nmae B.txt
+File Name B.txt
+Author : Shaileesha Shrestha
